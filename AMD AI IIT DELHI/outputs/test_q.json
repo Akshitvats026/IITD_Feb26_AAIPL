@@ -1,0 +1,122 @@
+[
+    {
+        "topic": "Logical Reasoning: Syllogisms",
+        "question": "Statements:\nAll Engineers are Doctors. All Doctors are Painters.\n\nConclusions:\nI. Some Engineers are Painters\nII. Some Painters are Doctors\n\nWhich conclusion logically follows?",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both I and II follow",
+            "D) Neither follows"
+        ],
+        "answer": "C",
+        "explanation": "By transitive property, if all Engineers are Doctors and all Doctors are Painters, then all Engineers are Painters. This implies 'Some Engineers are Painters' is true. Also, since all Doctors are Painters, 'Some Painters are Doctors' is true. Both follow."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Linear)",
+        "question": "Six persons B, A, E, H, F, C sit in a row.\nB sits at one extreme end.\nA and E are immediate neighbors.\nH sits third to the right of B.\nF sits between A and C.\n\nWho is sitting at the other extreme end?",
+        "choices": [
+            "A) E",
+            "B) A",
+            "C) C",
+            "D) H"
+        ],
+        "answer": "C",
+        "explanation": "Positioning: 1:B, 2:E, 3:A, 4:H, 5:F, 6:C. C matches the final end."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Circular)",
+        "question": "Six persons V, P, W, Q, T, S sit around a circular table facing the center.\nV sits opposite to P.\nW sits to the immediate left of V.\nQ sits opposite to W.\n\nWho is sitting to the immediate right of P?",
+        "choices": [
+            "A) P",
+            "B) T",
+            "C) Q",
+            "D) V"
+        ],
+        "answer": "C",
+        "explanation": "In a 6-seat circle, the position opposite to the person left of X is the person right of X's opposite. Thus, Q sits right of P."
+    },
+    {
+        "topic": "Blood Relations and Family Tree",
+        "question": "Grandfather's only son's daughter.",
+        "choices": [
+            "A) Aunt",
+            "B) Sister",
+            "C) Niece",
+            "D) Mother"
+        ],
+        "answer": "B",
+        "explanation": "Father's daughter is sister."
+    },
+    {
+        "topic": "Alphanumeric Series",
+        "question": "Complete the series: 1, 3, 5, 7, ?",
+        "choices": [
+            "A) 10",
+            "B) 11",
+            "C) 9",
+            "D) 8"
+        ],
+        "answer": "C",
+        "explanation": "Arithmetic series with difference 2."
+    },
+    {
+        "topic": "Logical Reasoning: Syllogisms",
+        "question": "Statements:\nNo Engineers is Painters. All Painters are Scientists.\n\nConclusions:\nI. Some Engineers are Scientists\nII. Some Scientists are Painters\n\nWhich conclusion logically follows?",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both I and II follow",
+            "D) Neither follows"
+        ],
+        "answer": "D",
+        "explanation": "No definitive relationship between Engineers and Scientists can be established. Conclusion I doesn't follow, and II isn't guaranteed as elements of C outside B might not be B."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Linear)",
+        "question": "Six persons C, H, F, A, D, B sit in a row.\nC sits at one extreme end.\nH and F are immediate neighbors.\nA sits third to the right of C.\nD sits between H and B.\n\nWho is sitting at the other extreme end?",
+        "choices": [
+            "A) A",
+            "B) B",
+            "C) H",
+            "D) D"
+        ],
+        "answer": "B",
+        "explanation": "Positioning: 1:C, 2:F, 3:H, 4:A, 5:D, 6:B. B matches the final end."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Circular)",
+        "question": "Six persons T, U, Q, S, R, V sit around a circular table facing the center.\nT sits opposite to U.\nQ sits to the immediate left of T.\nS sits opposite to Q.\n\nWho is sitting to the immediate right of U?",
+        "choices": [
+            "A) S",
+            "B) V",
+            "C) T",
+            "D) U"
+        ],
+        "answer": "A",
+        "explanation": "In a 6-seat circle, the position opposite to the person left of X is the person right of X's opposite. Thus, S sits right of U."
+    },
+    {
+        "topic": "Blood Relations and Family Tree",
+        "question": "Grandfather's only son's daughter.",
+        "choices": [
+            "A) Mother",
+            "B) Niece",
+            "C) Sister",
+            "D) Aunt"
+        ],
+        "answer": "C",
+        "explanation": "Father's daughter is sister."
+    },
+    {
+        "topic": "Alphanumeric Series",
+        "question": "Complete the series: 3, 5, 7, 9, ?",
+        "choices": [
+            "A) 10",
+            "B) 13",
+            "C) 11",
+            "D) 12"
+        ],
+        "answer": "C",
+        "explanation": "Arithmetic series with difference 2."
+    }
+]

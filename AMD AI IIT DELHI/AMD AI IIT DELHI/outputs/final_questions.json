@@ -1,0 +1,242 @@
+[
+    {
+        "topic": "Logical Reasoning: Syllogisms",
+        "question": "Statements:\nNo Plumbers is Engineers. All Engineers are Painters.\n\nConclusions:\nI. Some Plumbers are Painters\nII. Some Painters are Engineers\n\nWhich conclusion logically follows?",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both I and II follow",
+            "D) Neither follows"
+        ],
+        "answer": "D",
+        "explanation": "No definitive relationship between Plumbers and Painters can be established. Conclusion I doesn't follow, and II isn't guaranteed as elements of C outside B might not be B."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Linear)",
+        "question": "Six persons E, D, F, A, H, C sit in a row.\nE sits at one extreme end.\nD and F are immediate neighbors.\nA sits third to the right of E.\nH sits between D and C.\n\nWho is sitting at the other extreme end?",
+        "choices": [
+            "A) F",
+            "B) H",
+            "C) C",
+            "D) A"
+        ],
+        "answer": "C",
+        "explanation": "Positioning: 1:E, 2:F, 3:D, 4:A, 5:H, 6:C. C matches the final end."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Circular)",
+        "question": "Six persons W, P, T, U, V, S sit around a circular table facing the center.\nW sits opposite to P.\nT sits to the immediate left of W.\nU sits opposite to T.\n\nWho is sitting to the immediate right of P?",
+        "choices": [
+            "A) S",
+            "B) P",
+            "C) U",
+            "D) W"
+        ],
+        "answer": "C",
+        "explanation": "In a 6-seat circle, the position opposite to the person left of X is the person right of X's opposite. Thus, U sits right of P."
+    },
+    {
+        "topic": "Blood Relations and Family Tree",
+        "question": "Grandfather's only son's daughter.",
+        "choices": [
+            "A) Aunt",
+            "B) Mother",
+            "C) Sister",
+            "D) Niece"
+        ],
+        "answer": "C",
+        "explanation": "Father's daughter is sister."
+    },
+    {
+        "topic": "Alphanumeric Series",
+        "question": "Complete the series: 6, 8, 10, 12, ?",
+        "choices": [
+            "A) 15",
+            "B) 14",
+            "C) 16",
+            "D) 13"
+        ],
+        "answer": "B",
+        "explanation": "Arithmetic series with difference 2."
+    },
+    {
+        "topic": "Logical Reasoning: Syllogisms",
+        "question": "Statements:\nAll Doctors are Athletes. Some Athletes are Dancers.\n\nConclusions:\nI. Some Doctors are Dancers\nII. Some Dancers are Athletes\n\nWhich conclusion logically follows?",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both I and II follow",
+            "D) Neither follows"
+        ],
+        "answer": "B",
+        "explanation": "The 'some' relationship between Athletes and Dancers doesn't guarantee a link between Doctors and Dancers. However, 'Some Athletes are Dancers' implies 'Some Dancers are Athletes'. Only II follows."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Linear)",
+        "question": "Six persons E, A, H, G, B, D sit in a row.\nE sits at one extreme end.\nA and H are immediate neighbors.\nG sits third to the right of E.\nB sits between A and D.\n\nWho is sitting at the other extreme end?",
+        "choices": [
+            "A) D",
+            "B) A",
+            "C) G",
+            "D) H"
+        ],
+        "answer": "A",
+        "explanation": "Positioning: 1:E, 2:H, 3:A, 4:G, 5:B, 6:D. D matches the final end."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Circular)",
+        "question": "Six persons V, U, S, R, P, Q sit around a circular table facing the center.\nV sits opposite to U.\nS sits to the immediate left of V.\nR sits opposite to S.\n\nWho is sitting to the immediate right of U?",
+        "choices": [
+            "A) Q",
+            "B) S",
+            "C) P",
+            "D) R"
+        ],
+        "answer": "D",
+        "explanation": "In a 6-seat circle, the position opposite to the person left of X is the person right of X's opposite. Thus, R sits right of U."
+    },
+    {
+        "topic": "Blood Relations and Family Tree",
+        "question": "Pointing to a lady, a man said, 'She is the daughter of my mother's only son'.",
+        "choices": [
+            "A) Mother",
+            "B) Daughter",
+            "C) Aunt",
+            "D) Niece"
+        ],
+        "answer": "B",
+        "explanation": "Mother's only son is himself. His daughter is his daughter."
+    },
+    {
+        "topic": "Alphanumeric Series",
+        "question": "Complete the series: 4, 8, 12, 16, ?",
+        "choices": [
+            "A) 20",
+            "B) 19",
+            "C) 21",
+            "D) 24"
+        ],
+        "answer": "A",
+        "explanation": "Arithmetic series with difference 4."
+    },
+    {
+        "topic": "Logical Reasoning: Syllogisms",
+        "question": "Statements:\nAll Scientists are Teachers. Some Teachers are Lawyers.\n\nConclusions:\nI. Some Scientists are Lawyers\nII. Some Lawyers are Teachers\n\nWhich conclusion logically follows?",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both I and II follow",
+            "D) Neither follows"
+        ],
+        "answer": "B",
+        "explanation": "The 'some' relationship between Teachers and Lawyers doesn't guarantee a link between Scientists and Lawyers. However, 'Some Teachers are Lawyers' implies 'Some Lawyers are Teachers'. Only II follows."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Linear)",
+        "question": "Six persons F, H, E, D, G, B sit in a row.\nF sits at one extreme end.\nH and E are immediate neighbors.\nD sits third to the right of F.\nG sits between H and B.\n\nWho is sitting at the other extreme end?",
+        "choices": [
+            "A) B",
+            "B) F",
+            "C) H",
+            "D) G"
+        ],
+        "answer": "A",
+        "explanation": "Positioning: 1:F, 2:E, 3:H, 4:D, 5:G, 6:B. B matches the final end."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Circular)",
+        "question": "Six persons V, S, U, Q, R, T sit around a circular table facing the center.\nV sits opposite to S.\nU sits to the immediate left of V.\nQ sits opposite to U.\n\nWho is sitting to the immediate right of S?",
+        "choices": [
+            "A) V",
+            "B) T",
+            "C) Q",
+            "D) S"
+        ],
+        "answer": "C",
+        "explanation": "In a 6-seat circle, the position opposite to the person left of X is the person right of X's opposite. Thus, Q sits right of S."
+    },
+    {
+        "topic": "Blood Relations and Family Tree",
+        "question": "Pointing to a lady, a man said, 'She is the daughter of my mother's only son'.",
+        "choices": [
+            "A) Mother",
+            "B) Niece",
+            "C) Aunt",
+            "D) Daughter"
+        ],
+        "answer": "D",
+        "explanation": "Mother's only son is himself. His daughter is his daughter."
+    },
+    {
+        "topic": "Alphanumeric Series",
+        "question": "Complete the series: 3, 6, 9, 12, ?",
+        "choices": [
+            "A) 18",
+            "B) 16",
+            "C) 14",
+            "D) 15"
+        ],
+        "answer": "D",
+        "explanation": "Arithmetic series with difference 3."
+    },
+    {
+        "topic": "Logical Reasoning: Syllogisms",
+        "question": "Statements:\nAll Lawyers are Doctors. All Doctors are Dancers.\n\nConclusions:\nI. Some Lawyers are Dancers\nII. Some Dancers are Doctors\n\nWhich conclusion logically follows?",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both I and II follow",
+            "D) Neither follows"
+        ],
+        "answer": "C",
+        "explanation": "By transitive property, if all Lawyers are Doctors and all Doctors are Dancers, then all Lawyers are Dancers. This implies 'Some Lawyers are Dancers' is true. Also, since all Doctors are Dancers, 'Some Dancers are Doctors' is true. Both follow."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Linear)",
+        "question": "Six persons D, A, G, B, C, H sit in a row.\nD sits at one extreme end.\nA and G are immediate neighbors.\nB sits third to the right of D.\nC sits between A and H.\n\nWho is sitting at the other extreme end?",
+        "choices": [
+            "A) C",
+            "B) G",
+            "C) A",
+            "D) H"
+        ],
+        "answer": "D",
+        "explanation": "Positioning: 1:D, 2:G, 3:A, 4:B, 5:C, 6:H. H matches the final end."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Circular)",
+        "question": "Six persons W, R, S, Q, P, V sit around a circular table facing the center.\nW sits opposite to R.\nS sits to the immediate left of W.\nQ sits opposite to S.\n\nWho is sitting to the immediate right of R?",
+        "choices": [
+            "A) R",
+            "B) Q",
+            "C) W",
+            "D) V"
+        ],
+        "answer": "B",
+        "explanation": "In a 6-seat circle, the position opposite to the person left of X is the person right of X's opposite. Thus, Q sits right of R."
+    },
+    {
+        "topic": "Blood Relations and Family Tree",
+        "question": "Grandfather's only son's daughter.",
+        "choices": [
+            "A) Mother",
+            "B) Sister",
+            "C) Niece",
+            "D) Aunt"
+        ],
+        "answer": "B",
+        "explanation": "Father's daughter is sister."
+    },
+    {
+        "topic": "Alphanumeric Series",
+        "question": "Complete the series: 10, 13, 16, 19, ?",
+        "choices": [
+            "A) 25",
+            "B) 22",
+            "C) 21",
+            "D) 23"
+        ],
+        "answer": "B",
+        "explanation": "Arithmetic series with difference 3."
+    }
+]

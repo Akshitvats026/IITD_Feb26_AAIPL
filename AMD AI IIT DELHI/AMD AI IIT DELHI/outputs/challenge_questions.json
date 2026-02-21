@@ -1,0 +1,242 @@
+[
+    {
+        "topic": "Logical Reasoning - Syllogism",
+        "difficulty": "medium",
+        "question": "Statements: All roses are flowers. Some flowers are red. Conclusions: I. Some roses are red. II. Some red are flowers.",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both follow",
+            "D) Neither follows"
+        ],
+        "answer": "B"
+    },
+    {
+        "topic": "Logical Reasoning - Syllogism",
+        "difficulty": "hard",
+        "question": "Statements: No pen is pencil. Some pencils are markers. Conclusions: I. Some markers are not pens. II. Some pencils are not pens.",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both follow",
+            "D) Neither follows"
+        ],
+        "answer": "B"
+    },
+    {
+        "topic": "Seating Arrangement - Linear",
+        "difficulty": "medium",
+        "question": "Five persons A, B, C, D, E sit in a row. A sits at one end. B sits next to C. D is not adjacent to A. Who sits in the middle?",
+        "choices": [
+            "A) B",
+            "B) C",
+            "C) D",
+            "D) Cannot be determined"
+        ],
+        "answer": "D"
+    },
+    {
+        "topic": "Seating Arrangement - Linear",
+        "difficulty": "hard",
+        "question": "Six friends P, Q, R, S, T, U sit in a row. P sits third to the left of R. Q sits at one end. S sits immediate right of Q. T is not adjacent to P. Who sits at the extreme right?",
+        "choices": [
+            "A) R",
+            "B) S",
+            "C) T",
+            "D) U"
+        ],
+        "answer": "B"
+    },
+    {
+        "topic": "Seating Arrangement - Circular",
+        "difficulty": "medium",
+        "question": "Five persons A, B, C, D, E sit around a circular table facing center. A is opposite C. B sits immediate right of A. Who sits immediate left of C?",
+        "choices": [
+            "A) B",
+            "B) D",
+            "C) E",
+            "D) Cannot be determined"
+        ],
+        "answer": "A"
+    },
+    {
+        "topic": "Seating Arrangement - Circular",
+        "difficulty": "hard",
+        "question": "Seven persons P, Q, R, S, T, U, V sit around a circular table facing center. P is second to the left of Q. R is opposite S. T is immediate right of Q. U is not adjacent to P. Who sits opposite T?",
+        "choices": [
+            "A) R",
+            "B) S",
+            "C) V",
+            "D) Cannot be determined"
+        ],
+        "answer": "D"
+    },
+    {
+        "topic": "Blood Relations",
+        "difficulty": "medium",
+        "question": "Pointing to a woman, Ravi said, 'She is the mother of my father's only daughter.' How is the woman related to Ravi?",
+        "choices": [
+            "A) Mother",
+            "B) Aunt",
+            "C) Sister",
+            "D) Grandmother"
+        ],
+        "answer": "A"
+    },
+    {
+        "topic": "Blood Relations",
+        "difficulty": "hard",
+        "question": "A is the brother of B. C is the mother of A. D is the father of C. How is D related to B?",
+        "choices": [
+            "A) Father",
+            "B) Grandfather",
+            "C) Uncle",
+            "D) Brother"
+        ],
+        "answer": "B"
+    },
+    {
+        "topic": "Mixed Series & Patterns",
+        "difficulty": "medium",
+        "question": "Find the next term: 4, 9, 19, 39, ?",
+        "choices": [
+            "A) 79",
+            "B) 69",
+            "C) 59",
+            "D) 89"
+        ],
+        "answer": "A"
+    },
+    {
+        "topic": "Mixed Series & Patterns",
+        "difficulty": "hard",
+        "question": "Find the next term: 2, 3, 6, 7, 14, 15, ?",
+        "choices": [
+            "A) 30",
+            "B) 31",
+            "C) 28",
+            "D) 29"
+        ],
+        "answer": "A"
+    },
+    {
+        "topic": "Mixed Series & Patterns",
+        "difficulty": "medium",
+        "question": "Find the next term: A, D, H, M, ?",
+        "choices": [
+            "A) S",
+            "B) R",
+            "C) T",
+            "D) Q"
+        ],
+        "answer": "B"
+    },
+    {
+        "topic": "Blood Relations",
+        "difficulty": "hard",
+        "question": "If X is the son of Y's sister, how is Y related to X?",
+        "choices": [
+            "A) Mother",
+            "B) Aunt",
+            "C) Uncle",
+            "D) Cousin"
+        ],
+        "answer": "C"
+    },
+    {
+        "topic": "Logical Reasoning - Syllogism",
+        "difficulty": "medium",
+        "question": "Statements: Some books are papers. All papers are files. Conclusions: I. Some books are files. II. All files are books.",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both follow",
+            "D) Neither follows"
+        ],
+        "answer": "A"
+    },
+    {
+        "topic": "Logical Reasoning - Syllogism",
+        "difficulty": "hard",
+        "question": "Statements: All apples are fruits. No fruit is vegetable. Conclusions: I. No apple is vegetable. II. Some vegetables are fruits.",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both follow",
+            "D) Neither follows"
+        ],
+        "answer": "A"
+    },
+    {
+        "topic": "Seating Arrangement - Linear",
+        "difficulty": "medium",
+        "question": "Seven persons A, B, C, D, E, F, G sit in a row. C sits third from left. A is immediate left of D. F is at one end. Who sits immediate right of C?",
+        "choices": [
+            "A) A",
+            "B) B",
+            "C) D",
+            "D) Cannot be determined"
+        ],
+        "answer": "D"
+    },
+    {
+        "topic": "Mixed Series & Patterns",
+        "difficulty": "hard",
+        "question": "Find next term: 1, 4, 9, 16, 25, ?",
+        "choices": [
+            "A) 30",
+            "B) 35",
+            "C) 36",
+            "D) 49"
+        ],
+        "answer": "C"
+    },
+    {
+        "topic": "Blood Relations",
+        "difficulty": "medium",
+        "question": "Pointing to a boy, Neha said, 'He is the only son of my grandfather.' How is the boy related to Neha?",
+        "choices": [
+            "A) Brother",
+            "B) Uncle",
+            "C) Father",
+            "D) Cousin"
+        ],
+        "answer": "C"
+    },
+    {
+        "topic": "Seating Arrangement - Circular",
+        "difficulty": "hard",
+        "question": "Eight friends sit around a circular table. A sits opposite B. C sits immediate right of A. D sits second to the left of B. Who sits opposite C?",
+        "choices": [
+            "A) D",
+            "B) A",
+            "C) Cannot be determined",
+            "D) B"
+        ],
+        "answer": "C"
+    },
+    {
+        "topic": "Mixed Series & Patterns",
+        "difficulty": "medium",
+        "question": "Find next term: 5, 10, 8, 16, 14, 28, ?",
+        "choices": [
+            "A) 26",
+            "B) 24",
+            "C) 30",
+            "D) 32"
+        ],
+        "answer": "A"
+    },
+    {
+        "topic": "Logical Reasoning - Syllogism",
+        "difficulty": "hard",
+        "question": "Statements: Some cars are bikes. No bike is truck. Conclusions: I. Some cars are not trucks. II. Some trucks are cars.",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both follow",
+            "D) Neither follows"
+        ],
+        "answer": "A"
+    }
+]

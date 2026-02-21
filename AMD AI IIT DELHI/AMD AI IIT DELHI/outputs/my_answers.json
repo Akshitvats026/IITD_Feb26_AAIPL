@@ -1,0 +1,82 @@
+[
+    {
+        "answer": "B",
+        "reasoning": "Syllogistic logic evaluation."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Linear constraint places E at the end."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Circular symmetry places W at the right."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Blood relation path leads to Aunt."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Common difference."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Syllogistic logic evaluation."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Linear constraint places E at the end."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Circular symmetry places W at the right."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Blood relation path leads to Niece."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Common difference."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Syllogistic logic evaluation."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Linear constraint places E at the end."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Circular symmetry places W at the right."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Blood relation path leads to Niece."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Common difference."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Syllogistic logic evaluation."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Linear constraint places D at the end."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Circular symmetry places U at the right."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Blood relation path leads to Daughter."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Common difference."
+    }
+]

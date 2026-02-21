@@ -1,0 +1,12 @@
+{
+    "topic": "Logical Reasoning: Syllogisms",
+    "question": "Statements:\nAll Cats are Pets.\nSome Pets are Fluffy.\n\nConclusions:\nI. Some Cats are Fluffly\nII. Some Fluffy are Pets\n\nWhich conclusion logically follows?",
+    "choices": [
+        "A) Only I follows",
+        "B) Only II follows",
+        "C) Both I and II follow",
+        "D) Neither follows"
+    ],
+    "answer": "B",
+    "explanation": "While all cats are pets, some pets being fluffy doesn't guarantee cats are fluffy. However, 'Some Pets are Fluffy' logically implies 'Some Fluffy are Pets'. Thus, only II follows."
+}

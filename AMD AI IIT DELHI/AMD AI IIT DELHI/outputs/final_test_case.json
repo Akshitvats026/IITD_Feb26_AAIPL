@@ -1,0 +1,24 @@
+[
+    {
+        "topic": "Blood Relations",
+        "question": "If A + B means A is the mother of B; A - B means A is the brother B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q? A. Q - N + M x P B. P + S x N - Q C. P - M + N x Q D. Q - S % P",
+        "choices": [
+            "A) Q - N + M x P",
+            "B) P + S x N - Q",
+            "C) P - M + N x Q",
+            "D) Q - S % P"
+        ],
+        "answer": "C"
+    },
+    {
+        "topic": "Blood Relations",
+        "question": "Pointing to a photograph Lata says, \u201cHe is the son of the only son of my grandfather.\u201d How is the man in the photograph related to Lata?",
+        "choices": [
+            "A) Brother",
+            "B) Uncle",
+            "C) Cousin",
+            "D) Data is inadequate"
+        ],
+        "answer": "A"
+    }
+]

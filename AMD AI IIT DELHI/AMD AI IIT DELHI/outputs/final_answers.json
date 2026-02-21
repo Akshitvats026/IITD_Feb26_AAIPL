@@ -1,0 +1,82 @@
+[
+    {
+        "answer": "C",
+        "reasoning": "Syllogistic deduction: Both I and II follow."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Linear constraint analysis places C at the extreme end."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Circular symmetry identifies U."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Family tree mapping leads to Sister."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Arithmetic progression (+2)."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Syllogistic deduction: Both I and II follow."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Linear constraint analysis places D at the extreme end."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Circular symmetry identifies R."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Family tree mapping leads to Daughter."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Arithmetic progression (+4)."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Syllogistic deduction: Both I and II follow."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Linear constraint analysis places B at the extreme end."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Circular symmetry identifies Q."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Family tree mapping leads to Daughter."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Arithmetic progression (+3)."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Syllogistic deduction: Both I and II follow."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Linear constraint analysis places H at the extreme end."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Circular symmetry identifies Q."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Family tree mapping leads to Sister."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Arithmetic progression (+3)."
+    }
+]

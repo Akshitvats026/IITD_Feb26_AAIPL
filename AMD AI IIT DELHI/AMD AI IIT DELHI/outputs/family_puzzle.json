@@ -1,0 +1,13 @@
+[
+    {
+        "topic": "Logical Reasoning - Family Profession Puzzle",
+        "question": "A, B, C, D, E, F are members of a family. They are engineer, stenographer, doctor, draughtsman, lawyer and judge (not in order). A, the engineer is married to the lady stenographer. The judge is married to the lawyer. F, the draughtsman is the son of B and brother of E. C, the lawyer is the daughter-in-law of D. E is the unmarried doctor. D is the grandmother of F. There are two married couples in the family. What is the profession of B?",
+        "choices": [
+            "A) Judge",
+            "B) Lawyer",
+            "C) Draughtsman",
+            "D) Cannot be determined"
+        ],
+        "answer": "A"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "answer": "B",
+        "reasoning": "Syllogistic logic evaluation."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Syllogistic logic evaluation."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Ambiguous seating constraints."
+    },
+    {
+        "answer": "D",
+        "reasoning": "Linear constraint matching."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Circular mapping."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Circular logic."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Family tree analysis."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Family tree analysis."
+    },
+    {
+        "answer": "A",
+        "reasoning": "x2 + 1 pattern."
+    },
+    {
+        "answer": "A",
+        "reasoning": "+1, x2 pattern."
+    },
+    {
+        "answer": "B",
+        "reasoning": "Skip count sequence (2, 3, 4, 5)."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Family tree analysis."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Syllogistic logic evaluation."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Syllogistic logic evaluation."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Linear constraint matching."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Squares."
+    },
+    {
+        "answer": "C",
+        "reasoning": "Family tree analysis."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Circular logic."
+    },
+    {
+        "answer": "A",
+        "reasoning": "x2, -2 pattern."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Syllogistic logic evaluation."
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "answer": "C",
+        "reasoning": "Coded relation P-M+N x Q establishes P as brother of mother M."
+    },
+    {
+        "answer": "A",
+        "reasoning": "Grandfather's only son is the father; the son of the father is the brother."
+    }
+]

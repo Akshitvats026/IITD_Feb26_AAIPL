@@ -1,0 +1,122 @@
+[
+    {
+        "topic": "Logical Reasoning: Syllogisms",
+        "question": "Statements:\nAll Lawyers are Athletes. All Athletes are Dancers.\n\nConclusions:\nI. Some Lawyers are Dancers\nII. Some Dancers are Athletes",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both I and II follow",
+            "D) Neither follows"
+        ],
+        "answer": "C",
+        "reasoning": "Transitive property applies."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Linear)",
+        "question": "Six persons A, G, D, H, E, F sit in a row. A is at the end. G is next to D.",
+        "choices": [
+            "A) D",
+            "B) E",
+            "C) H",
+            "D) G"
+        ],
+        "answer": "A",
+        "reasoning": "Arrangement logic."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Circular)",
+        "question": "Six persons R, W, U, V, T, Q sit circle. R is opposite W.",
+        "choices": [
+            "A) T",
+            "B) Q",
+            "C) W",
+            "D) R"
+        ],
+        "answer": "A",
+        "reasoning": "Circular symmetry."
+    },
+    {
+        "topic": "Blood Relations and Family Tree",
+        "question": "Pointing to a man, a woman said: 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+        "choices": [
+            "A) Mother",
+            "B) Aunt",
+            "C) Sister",
+            "D) Daughter"
+        ],
+        "answer": "A",
+        "reasoning": "Lineage analysis."
+    },
+    {
+        "topic": "Alphanumeric Series",
+        "question": "2, 4, 8, 16, ?",
+        "choices": [
+            "A) 32",
+            "B) 24",
+            "C) 64",
+            "D) 20"
+        ],
+        "answer": "A",
+        "reasoning": "Geometric progression (x2)."
+    },
+    {
+        "topic": "Logical Reasoning: Syllogisms",
+        "question": "Statements:\nAll Athletes are Dancers. All Dancers are Doctors.\n\nConclusions:\nI. Some Athletes are Doctors\nII. Some Doctors are Dancers",
+        "choices": [
+            "A) Only I follows",
+            "B) Only II follows",
+            "C) Both I and II follow",
+            "D) Neither follows"
+        ],
+        "answer": "C",
+        "reasoning": "Transitive property applies."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Linear)",
+        "question": "Six persons H, F, C, B, G, E sit in a row. H is at the end. F is next to C.",
+        "choices": [
+            "A) C",
+            "B) G",
+            "C) F",
+            "D) B"
+        ],
+        "answer": "A",
+        "reasoning": "Arrangement logic."
+    },
+    {
+        "topic": "Puzzles: Seating Arrangements (Circular)",
+        "question": "Six persons V, S, W, R, T, Q sit circle. V is opposite S.",
+        "choices": [
+            "A) T",
+            "B) V",
+            "C) R",
+            "D) S"
+        ],
+        "answer": "A",
+        "reasoning": "Circular symmetry."
+    },
+    {
+        "topic": "Blood Relations and Family Tree",
+        "question": "Pointing to a man, a woman said: 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+        "choices": [
+            "A) Mother",
+            "B) Aunt",
+            "C) Sister",
+            "D) Daughter"
+        ],
+        "answer": "A",
+        "reasoning": "Lineage analysis."
+    },
+    {
+        "topic": "Alphanumeric Series",
+        "question": "2, 4, 8, 16, ?",
+        "choices": [
+            "A) 32",
+            "B) 24",
+            "C) 64",
+            "D) 20"
+        ],
+        "answer": "A",
+        "reasoning": "Geometric progression (x2)."
+    }
+]

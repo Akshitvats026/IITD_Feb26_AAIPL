@@ -1,0 +1,170 @@
+[
+  {
+    "topic": "Blood Relations",
+    "question": "Pointing to a lady, a man said, 'She is the daughter of my mother's only son'.",
+    "choices": [
+      "A) Daughter",
+      "B) Father",
+      "C) Grandfather",
+      "D) Cousin"
+    ],
+    "answer": "A",
+    "explanation": "The 'mother's only son' is the man himself. Since the lady is the daughter of that son, she is the man's daughter."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons G, A, B, F, C, D sit in a row.\nG sits at one extreme end.\nA and B are immediate neighbors.\nF sits third to the right of G.\nC sits between A and D.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) F",
+      "B) D",
+      "C) G",
+      "D) A"
+    ],
+    "answer": "B",
+    "explanation": "Based on the clues: G is at position 1. F is at position 4. A and B are neighbors. C being between A and D suggests a cluster. Arranging them linearly (1: G, 2: B, 3: A, 4: F, 5: C, 6: D), we find that D is at the other extreme end."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons F, D, E, H, A, B sit in a row.\nF sits at one extreme end.\nD and E are immediate neighbors.\nH sits third to the right of F.\nA sits between D and B.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) H",
+      "B) F",
+      "C) B",
+      "D) E"
+    ],
+    "answer": "C",
+    "explanation": "Based on the clues: F is at position 1. H is at position 4. D and E are neighbors. A being between D and B suggests a cluster. Arranging them linearly (1: F, 2: E, 3: D, 4: H, 5: A, 6: B), we find that B is at the other extreme end."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons F, E, D, G, C, B sit in a row.\nF sits at one extreme end.\nE and D are immediate neighbors.\nG sits third to the right of F.\nC sits between E and B.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) B",
+      "B) D",
+      "C) F",
+      "D) C"
+    ],
+    "answer": "A",
+    "explanation": "Based on the clues: F is at position 1. G is at position 4. E and D are neighbors. C being between E and B suggests a cluster. Arranging them linearly (1: F, 2: D, 3: E, 4: G, 5: C, 6: B), we find that B is at the other extreme end."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons G, A, E, H, F, D sit in a row.\nG sits at one extreme end.\nA and E are immediate neighbors.\nH sits third to the right of G.\nF sits between A and D.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) D",
+      "B) F",
+      "C) A",
+      "D) G"
+    ],
+    "answer": "A",
+    "explanation": "Based on the clues: G is at position 1. H is at position 4. A and E are neighbors. F being between A and D suggests a cluster. Arranging them linearly (1: G, 2: E, 3: A, 4: H, 5: F, 6: D), we find that D is at the other extreme end."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons D, C, H, F, E, G sit in a row.\nD sits at one extreme end.\nC and H are immediate neighbors.\nF sits third to the right of D.\nE sits between C and G.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) D",
+      "B) E",
+      "C) G",
+      "D) F"
+    ],
+    "answer": "C",
+    "explanation": "Based on the clues: D is at position 1. F is at position 4. C and H are neighbors. E being between C and G suggests a cluster. Arranging them linearly (1: D, 2: H, 3: C, 4: F, 5: E, 6: G), we find that G is at the other extreme end."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons G, C, D, F, H, B sit in a row.\nG sits at one extreme end.\nC and D are immediate neighbors.\nF sits third to the right of G.\nH sits between C and B.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) B",
+      "B) F",
+      "C) C",
+      "D) D"
+    ],
+    "answer": "A",
+    "explanation": "Based on the clues: G is at position 1. F is at position 4. C and D are neighbors. H being between C and B suggests a cluster. Arranging them linearly (1: G, 2: D, 3: C, 4: F, 5: H, 6: B), we find that B is at the other extreme end."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons G, H, A, F, B, C sit in a row.\nG sits at one extreme end.\nH and A are immediate neighbors.\nF sits third to the right of G.\nB sits between H and C.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) H",
+      "B) F",
+      "C) G",
+      "D) C"
+    ],
+    "answer": "D",
+    "explanation": "Based on the clues: G is at position 1. F is at position 4. H and A are neighbors. B being between H and C suggests a cluster. Arranging them linearly (1: G, 2: A, 3: H, 4: F, 5: B, 6: C), we find that C is at the other extreme end."
+  },
+  {
+    "topic": "Logical Reasoning - Syllogism",
+    "question": "Statements:\nAll Doctors are Teachers. Some Teachers are Scientists.\n\nConclusions:\nI. Some Doctors are Scientists\nII. Some Scientists are Teachers\n\nWhich conclusion logically follows?",
+    "choices": [
+      "A) Only I follows",
+      "B) Only II follows",
+      "C) Both I and II follow",
+      "D) Neither follows"
+    ],
+    "answer": "B",
+    "explanation": "While all Doctors are Teachers, the 'some' relationship between Teachers and Scientists does not guarantee a connection between Doctors and Scientists. However, 'Some Teachers are Scientists' directly implies 'Some Scientists are Teachers'. Only conclusion II follows."
+  },
+  {
+    "topic": "Logical Reasoning - Syllogism",
+    "question": "Statements:\nNo Artists is Engineers. All Engineers are Doctors.\n\nConclusions:\nI. Some Artists are Doctors\nII. Some Doctors are Engineers\n\nWhich conclusion logically follows?",
+    "choices": [
+      "A) Only I follows",
+      "B) Only II follows",
+      "C) Both I and II follow",
+      "D) Neither follows"
+    ],
+    "answer": "D",
+    "explanation": "The exclusion of Artists from Engineers and the inclusion of Engineers in Doctors does not provide enough information to conclude a relationship between Artists and Doctors. Likewise, 'Doctors' might contain elements outside of 'Engineers', so we cannot confirm 'Some Doctors are Engineers' based only on exclusion rules."
+  },
+  {
+    "topic": "Logical Reasoning - Syllogism",
+    "question": "Statements:\nSome Engineers are Painters. Some Painters are Artists.\n\nConclusions:\nI. Some Engineers are Artists\nII. Some Artists are Painters\n\nWhich conclusion logically follows?",
+    "choices": [
+      "A) Only I follows",
+      "B) Only II follows",
+      "C) Both I and II follow",
+      "D) Neither follows"
+    ],
+    "answer": "D",
+    "explanation": "Two 'some' statements do not allow for a definite logical conclusion regarding the relationship between the first and last terms. There is no guaranteed overlap between Engineers and Artists."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons H, D, F, A, B, C sit in a row.\nH sits at one extreme end.\nD and F are immediate neighbors.\nA sits third to the right of H.\nB sits between D and C.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) C",
+      "B) F",
+      "C) D",
+      "D) H"
+    ],
+    "answer": "A",
+    "explanation": "Based on the clues: H is at position 1. A is at position 4. D and F are neighbors. B being between D and C suggests a cluster. Arranging them linearly (1: H, 2: F, 3: D, 4: A, 5: B, 6: C), we find that C is at the other extreme end."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons G, C, H, F, B, E sit in a row.\nG sits at one extreme end.\nC and H are immediate neighbors.\nF sits third to the right of G.\nB sits between C and E.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) C",
+      "B) F",
+      "C) E",
+      "D) H"
+    ],
+    "answer": "C",
+    "explanation": "Based on the clues: G is at position 1. F is at position 4. C and H are neighbors. B being between C and E suggests a cluster. Arranging them linearly (1: G, 2: H, 3: C, 4: F, 5: B, 6: E), we find that E is at the other extreme end."
+  },
+  {
+    "topic": "Seating Arrangement - Linear",
+    "question": "Six persons B, D, H, F, A, G sit in a row.\nB sits at one extreme end.\nD and H are immediate neighbors.\nF sits third to the right of B.\nA sits between D and G.\n\nWho is sitting at the other extreme end?",
+    "choices": [
+      "A) A",
+      "B) H",
+      "C) D",
+      "D) G"
+    ],
+    "answer": "D",
+    "explanation": "Based on the clues: B is at position 1. F is at position 4. D and H are neighbors. A being between D and G suggests a cluster. Arranging them linearly (1: B, 2: H, 3: D, 4: F, 5: A, 6: G), we find that G is at the other extreme end."
+  }
+]
