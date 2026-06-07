@@ -66,7 +66,7 @@
             "A) Only I follows",
             "B) Only II follows",
             "C) Both I and II follow",
-            "D) Neither follows"
+            "D) Neither I and II follows"
         ],
         "answer": "C",
         "reasoning": "Transitive property applies."
@@ -93,7 +93,7 @@
             "D) S"
         ],
         "answer": "A",
-        "reasoning": "Circular symmetry."
+        "reasoning": "Circular symetry."
     },
     {
         "topic": "Blood Relations and Family Tree",
@@ -108,7 +108,7 @@
         "reasoning": "Lineage analysis."
     },
     {
-        "topic": "Alphanumeric Series",
+        "topic": "The Alphanumeric Series",
         "question": "2, 4, 8, 16, ?",
         "choices": [
             "A) 32",
@@ -117,6 +117,6 @@
             "D) 20"
         ],
         "answer": "A",
-        "reasoning": "Geometric progression (x2)."
+        "reasoning": "The Deometric Progression (x2)."
     }
 ]
